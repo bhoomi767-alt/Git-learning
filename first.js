@@ -10,4 +10,10 @@ console.log(footer);
 =======
 const payment = "integrated the payment gate way"
 console.log(payment);
+<<<<<<< HEAD
 >>>>>>> f22a7c7 (payment added)
+=======
+
+const upi = "integrated the upi"
+console.log(upi);
+>>>>>>> f60bc5f (upi added)
